@@ -1,0 +1,12 @@
+tickers: [btc,eth,ltc]
+
+accounts:
+  ledger:
+    btc: 2
+    eth: 2.4324
+    ltc: 10
+
+  coinbase:
+    btc: 1.2345
+    eth: 5.4321
+
